@@ -1,0 +1,26 @@
+
+
+section{ 
+    display: grid;
+    grid-template-columns: 14% 14% 14% 14% 14% 14% 14% ;
+}
+
+img{
+    height: 170px;
+    width: 17vh;
+    margin: 30px;
+    border-radius: 15px;   
+    
+}
+span{
+    vertical-align: middle;
+    font-weight: bold;
+    padding: 35px;
+    
+    
+}
+h1{
+    text-align: center;
+    margin: 5px;
+    padding-right: 25px; 
+}
