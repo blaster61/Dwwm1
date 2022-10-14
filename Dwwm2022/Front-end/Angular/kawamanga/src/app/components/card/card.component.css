@@ -1,5 +1,5 @@
 
-
+/* le bloc de ma page */
 section{
     text-align: center;
     display: grid;
@@ -8,7 +8,7 @@ section{
     margin-top: 55px;
     row-gap: 15px;
 }
-
+/* les images des cartes */
 img{
     height: 170px;
     width: 17vh;
@@ -17,6 +17,7 @@ img{
        
     
 }
+/* les titre sous les cartes */
 span{
     
     vertical-align: middle;
@@ -30,7 +31,8 @@ span{
 
     
 }
-h1{
+/* le titre du site */
+h1{ 
     text-align: center;
     margin: 15px;
     padding-right: 25px; 

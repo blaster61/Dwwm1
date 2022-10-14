@@ -1,11 +1,13 @@
 
 
+/* Le badground de mon site */
 div{
     background: url(/assets/images/inscription.png) no-repeat;
     position: absolute;
     max-width: 205vh;
     height: 100%;
 }
+/* Le formulaire  */
 form{
     
     width: 50vh;
