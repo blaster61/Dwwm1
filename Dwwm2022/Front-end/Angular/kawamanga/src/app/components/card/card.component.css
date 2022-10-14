@@ -1,26 +1,37 @@
 
 
-section{ 
+section{
+    text-align: center;
     display: grid;
-    grid-template-columns: 14% 14% 14% 14% 14% 14% 14% ;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    margin-top: 55px;
+    row-gap: 15px;
 }
 
 img{
     height: 170px;
     width: 17vh;
-    margin: 30px;
-    border-radius: 15px;   
+    margin-bottom:10px;
+    border-radius: 15px;
+       
     
 }
 span{
+    
     vertical-align: middle;
     font-weight: bold;
-    padding: 35px;
+    padding-left: 5px;
+    margin-bottom: 20px;
+    display: grid;
+    font-size: 0.85rem;
     
+    
+
     
 }
 h1{
     text-align: center;
-    margin: 5px;
+    margin: 15px;
     padding-right: 25px; 
 }
