@@ -1,4 +1,5 @@
 
+
 img{
   width: 250vh;
   height: 100%;
@@ -23,7 +24,7 @@ form {
   opacity: 0.95;
 }
 form h1 {
-  font-size: 20px;
+       font-size: 20px;
 }
 form .separation {
   width: 100%;
@@ -83,6 +84,8 @@ form .pied-formulaire button {
   outline: none;
   cursor: pointer;
   transition: transform 0.5s;
+  
+  
 }
 form .pied-formulaire button:hover {
   transform: scale(1.05);
