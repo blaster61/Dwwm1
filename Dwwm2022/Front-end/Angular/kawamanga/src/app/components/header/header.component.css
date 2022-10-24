@@ -16,3 +16,6 @@ input{
 a{
     margin-left: 55px;
 }
+nav {
+    box-shadow: 0 3px 10px 0  ;
+}
